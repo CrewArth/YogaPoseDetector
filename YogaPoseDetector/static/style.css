@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #2c3e50;
+}
+
+form {
+    margin-top: 20px;
+}
+
+img {
+    margin-top: 20px;
+    max-width: 100%;
+    height: auto;
+}
